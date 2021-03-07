@@ -1,7 +1,7 @@
 
 ---
 layout: home
-title: who are we
+title: who_are_we
 permalink: /who_are_we/
 ---
 
