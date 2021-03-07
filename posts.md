@@ -1,6 +1,6 @@
 ---
-layout: allposts
-title: Posts
-description: Blog posts
-permalink: /posts/
+layout: home
 ---
+<p>
+  who we are
+<p>
