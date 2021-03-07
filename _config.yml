@@ -18,7 +18,7 @@ minima_reboot:
 
 header_pages:
 - about.md
-- posts.html
+- posts.md
 
 footer_icons:
   url: https://paulschuetze.github.io/CriticalCogSci/
